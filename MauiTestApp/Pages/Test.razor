@@ -2,6 +2,22 @@
 
 <h3>Component1</h3>
 
-@code {
+<button @onclick="Toggle">Toggle</button>
 
+<span class="badge @(isItOn ? "bg-primary":"bg-secondary")">@(isItOn ? "On" : "Off")</span>
+<span class="badge bg-warning">Warning</span>
+<span class="badge bg-info">Info</span>
+<span class="badge bg-light">Light</span>
+<span class="badge bg-dark">Dark</span>
+
+
+<CounterComponent Title="heyyy !!" />
+
+@code {
+    bool isItOn = false;
+
+    private void Toggle()
+    {
+        isItOn = !isItOn;
+    }
 }

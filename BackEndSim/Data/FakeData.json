@@ -1,0 +1,57 @@
+{
+  "Hatchery": [
+    "OVAC",
+    "BOIRE",
+    "HATCH",
+    "OVO",
+    "DEPOT"
+  ],
+  "Incubator": [
+    "IncubatorValueM",
+    "IncubatorValueN",
+    "IncubatorValueO",
+    "IncubatorValueW",
+    "IncubatorValueK",
+    "IncubatorValueL",
+    "IncubatorValueG",
+    "IncubatorValueH",
+    "IncubatorValueI",
+    "IncubatorValueJ"
+  ],
+  "RawMaterial": [
+    "RawMaterialValueD",
+    "RawMaterialValueE",
+    "RawMaterialValueF",
+    "RawMaterialValueA",
+    "RawMaterialValueB",
+    "RawMaterialValueC",
+    "RawMaterialValueX",
+    "RawMaterialValueY",
+    "RawMaterialValueZ",
+    "RawMaterialValueQ"
+  ],
+  "EggClass": [
+    "EggClassValueH",
+    "EggClassValueI",
+    "EggClassValueJ",
+    "EggClassValueS",
+    "EggClassValueT",
+    "EggClassValueU",
+    "EggClassValueR",
+    "EggClassValueV",
+    "EggClassValueW",
+    "EggClassValueP"
+  ],
+  "FLocks": [
+    "FLocksValue1",
+    "FLocksValue2",
+    "FLocksValue3",
+    "FLocksValue4",
+    "FLocksValue5",
+    "FLocksValue6",
+    "FLocksValue7",
+    "FLocksValue8",
+    "FLocksValue9",
+    "FLocksValue10"
+  ]
+}
